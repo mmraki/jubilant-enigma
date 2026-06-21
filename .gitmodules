@@ -1,0 +1,9 @@
+[submodule "awesome-deep-learning"]
+	path = awesome-deep-learning
+	url = https://github.com/ChristosChristofidis/awesome-deep-learning
+[submodule "project-based-learning"]
+	path = project-based-learning
+	url = https://github.com/practical-tutorials/project-based-learning
+[submodule "build-your-own-x"]
+	path = build-your-own-x
+	url = https://github.com/codecrafters-io/build-your-own-x
