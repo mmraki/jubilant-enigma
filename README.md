@@ -7,7 +7,7 @@ To check if you are in a repo
 git remote -v
 
 Add Repository
-git submodule add http://linktowebsite.com
+git submodule add http://linktorepo.com
 
 To change the name of the branch
 *local main
